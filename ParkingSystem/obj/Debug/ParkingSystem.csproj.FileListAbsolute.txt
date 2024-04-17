@@ -1,0 +1,7 @@
+C:\Users\1V4\source\repos\ParkingSystem\ParkingSystem\bin\Debug\ParkingSystem.exe.config
+C:\Users\1V4\source\repos\ParkingSystem\ParkingSystem\bin\Debug\ParkingSystem.exe
+C:\Users\1V4\source\repos\ParkingSystem\ParkingSystem\bin\Debug\ParkingSystem.pdb
+C:\Users\1V4\source\repos\ParkingSystem\ParkingSystem\obj\Debug\ParkingSystem.csproj.AssemblyReference.cache
+C:\Users\1V4\source\repos\ParkingSystem\ParkingSystem\obj\Debug\ParkingSystem.csproj.CoreCompileInputs.cache
+C:\Users\1V4\source\repos\ParkingSystem\ParkingSystem\obj\Debug\ParkingSystem.exe
+C:\Users\1V4\source\repos\ParkingSystem\ParkingSystem\obj\Debug\ParkingSystem.pdb
